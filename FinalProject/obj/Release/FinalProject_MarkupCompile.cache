@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\Администратор\OneDrive\Desktop\Final\FinalProject\obj\Debug\
+C:\Users\Администратор\OneDrive\Desktop\Final\FinalProject\obj\Release\
 FinalProject
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\Администратор\OneDrive\Desktop\Final\FinalProject\App.xaml
 41506324977
 
@@ -16,5 +16,5 @@ C:\Users\Администратор\OneDrive\Desktop\Final\FinalProject\App.xaml
 16-1797961763
 MainWindow.xaml;Window1.xaml;Window2.xaml;Window3.xaml;
 
-False
+True
 
